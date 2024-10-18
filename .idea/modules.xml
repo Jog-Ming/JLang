@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/compiler/compiler.iml" filepath="$PROJECT_DIR$/compiler/compiler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/runtime/runtime.iml" filepath="$PROJECT_DIR$/runtime/runtime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLang.iml" filepath="$PROJECT_DIR$/JLang.iml" />
     </modules>
   </component>
 </project>
